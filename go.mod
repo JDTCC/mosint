@@ -11,7 +11,7 @@ require (
 	github.com/olekukonko/tablewriter v0.0.5
 	github.com/schollz/progressbar/v3 v3.13.0
 	github.com/spf13/cobra v1.6.0
-	golang.org/x/text v0.6.0
+	golang.org/x/text v0.7.0
 )
 
 require (
@@ -39,8 +39,8 @@ require (
 	github.com/saintfish/chardet v0.0.0-20120816061221-3af4cd4741ca // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
 	github.com/temoto/robotstxt v1.1.1 // indirect
-	golang.org/x/net v0.0.0-20220722155237-a158d28d115b // indirect
-	golang.org/x/term v0.4.0 // indirect
+	golang.org/x/net v0.7.0 // indirect
+	golang.org/x/term v0.5.0 // indirect
 	golang.org/x/time v0.0.0-20201208040808-7e3f01d25324 // indirect
 	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1 // indirect
 	google.golang.org/appengine v1.6.6 // indirect
@@ -51,5 +51,5 @@ require (
 	github.com/gammazero/workerpool v1.1.3
 	github.com/mattn/go-isatty v0.0.17 // indirect
 	github.com/rocketlaunchr/google-search v1.1.5
-	golang.org/x/sys v0.4.0 // indirect
+	golang.org/x/sys v0.5.0 // indirect
 )
